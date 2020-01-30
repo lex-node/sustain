@@ -132,6 +132,7 @@ body {
 .panel-body {
   padding-top: -10px;
   text-align: left;
+  background-color: black;
 }
 .social {
   padding-top: 12px;
